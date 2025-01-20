@@ -1,0 +1,10 @@
+package main.java.chapter_02;
+
+public class BankStatementCSVParser {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}
